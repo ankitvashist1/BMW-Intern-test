@@ -1,5 +1,7 @@
 # BMW-Intern-test
 
+In this test, I was asked to solve below questions:
+
 * Create a Data Model
 *	Create a Dashboard
 *	Show the total USD amount of Open Items* as of March 30th, 2020
